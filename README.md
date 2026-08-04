@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cliffordjose/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/cliffordjose/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [2573-find-the-string-with-lcp](https://github.com/cliffordjose/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cliffordjose/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [2573-find-the-string-with-lcp](https://github.com/cliffordjose/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 ## Greedy
 |  |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cliffordjose/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/cliffordjose/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/cliffordjose/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
