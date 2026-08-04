@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/cliffordjose/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2573-find-the-string-with-lcp](https://github.com/cliffordjose/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 ## Dynamic Programming
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/cliffordjose/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/cliffordjose/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/cliffordjose/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
